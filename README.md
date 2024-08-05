@@ -29,4 +29,4 @@ Cursos na Data Science Academy: Fundamentos de Linguagem Python Para Análise de
 
 Meu GitHub: [Seu GitHub](https://github.com/jeferson-paz)  
 
-Projeto criado através do curso Fundamentos de Linguagem Python Para Análise de Dados e Data Science (Com ChatGPT)
+Projeto criado através do Curso gratuito na Data Science Academy: [Fundamentos de Linguagem Python Para Análise de Dados e Data Science (Com ChatGPT)](https://www.datascienceacademy.com.br)
