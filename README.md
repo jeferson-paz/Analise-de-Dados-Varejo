@@ -25,8 +25,5 @@ Esta análise proporciona uma visão abrangente das métricas de vendas e ajuda 
 ---
 
 Feito por: **Jeferson Paz**  
-Cursos na Data Science Academy: Fundamentos de Linguagem Python Para Análise de Dados e Data Science (Com ChatGPT)  
-
-Meu GitHub: [Seu GitHub](https://github.com/jeferson-paz)  
 
 Projeto criado através do Curso gratuito na Data Science Academy: [Fundamentos de Linguagem Python Para Análise de Dados e Data Science (Com ChatGPT)](https://www.datascienceacademy.com.br)
