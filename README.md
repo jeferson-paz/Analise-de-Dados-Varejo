@@ -1,5 +1,7 @@
 ## Resumo da Análise
 
+#### 🔗Link para o Notebook: [https://jeferson-paz.github.io/academia-sql/alunos_academia.html](https://jeferson-paz.github.io/Analise-de-Dados-Varejo/An%C3%A1lise%20Explorat%C3%B3ria%20de%20Dados%20em%20Linguagem%20Python%20Para%20a%20%C3%81rea%20de%20Varejo.html)
+---
 Nesta análise exploratória de dados, focamos em diversas perguntas de negócio cruciais para a área de varejo, utilizando ferramentas avançadas de visualização em Python. A seguir, apresentamos uma visão geral dos principais resultados e insights obtidos:
 
 ### Total de Vendas Por Categoria e Subcategoria (Top 12 Subcategorias)
